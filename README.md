@@ -53,3 +53,15 @@ Note: set the input and output paths of the video.
 ![Figure 26](./images/Fig26.png)
 *Figure 26: Scripts of Model Inference and Visualisation.*
 
+
+-----------------------------------------------------------------
+Due to file size restrictions of NESS, the trained models can be downloaded from here:
+
+https://drive.google.com/drive/folders/1sKRlUEbRWIKDUV1J9KU0HsDGMZcpzdgS?usp=sharing
+
+-------------------------------------------------------------------------------------------------------------------------
+
+The visualisation videos of the inference results can be downloaded from here:
+
+https://drive.google.com/drive/folders/108GxlYUOYss_t-Fw84tlacX4DhEG0FA3?usp=sharing
+
