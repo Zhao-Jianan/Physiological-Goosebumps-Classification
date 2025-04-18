@@ -6,6 +6,7 @@ This project is developed using the **MMACTION2** toolkit. As shown in **Figure 
 To use this system, simply run the script files in order.
 
 ![Figure 20](./images/Fig20.png)
+
 **Figure 20: Project File Structure**
 
 ### 🔹 mmaction2 Folder Structure  
@@ -20,6 +21,7 @@ Pay attention to the following key subdirectories in the `mmaction2` folder:
   Use **`/`** for Linux and **`\`** for Windows.
 
 ![Figure 21](./images/Fig21.png)
+
 **Figure 21: Data Folder in Experiments**
 
 > 📝 Note: Due to file size limitations of NESS, the submitted project excludes data files.
@@ -30,6 +32,7 @@ Pay attention to the following key subdirectories in the `mmaction2` folder:
   Set your **data paths** and **training parameters** here, as shown in **Figure 22**.
 
 ![Figure 22](./images/Fig22.png)
+
 **Figure 22: Configuration File Example**
 
 - **`work_dirs` Folder**  
@@ -44,6 +47,7 @@ As shown in **Figure 23**, run all code cells in the `goosebumps_data_preprocess
 > ⚠️ Don’t forget to set and modify the correct **data paths** before running.
 
 ![Figure 23](./images/Fig23.png)
+
 **Figure 23: Data Preprocessing Scripts**
 
 ---
@@ -53,6 +57,7 @@ As shown in **Figure 23**, run all code cells in the `goosebumps_data_preprocess
 To retrain the model, run `main_experiment_training.ipynb`, as shown in **Figure 24**.
 
 ![Figure 24](./images/Fig24.png)
+
 **Figure 24: Model Training Script**
 
 ---
@@ -62,6 +67,7 @@ To retrain the model, run `main_experiment_training.ipynb`, as shown in **Figure
 For model evaluation, run `model_evaluation.ipynb` as shown in **Figure 25**.
 
 ![Figure 25](./images/Fig25.png)
+
 **Figure 25: Model Evaluation Script**
 
 ---
@@ -75,6 +81,7 @@ To perform model inference and visualize the results:
 > ⚠️ Remember to correctly set the **input and output paths** for videos.
 
 ![Figure 26](./images/Fig26.png)
+
 **Figure 26: Inference and Visualization Script**
 
 ---
